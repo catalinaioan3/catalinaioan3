@@ -8,7 +8,6 @@ Here are some things about me:
 
 - 📫 How to reach me: catalina.ioan3  gmail  com
 - 😄 Pronouns: she/her
--->
 
 
 #### If you are a recruter please check out this repository
