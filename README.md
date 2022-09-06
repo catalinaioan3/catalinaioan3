@@ -2,7 +2,7 @@
 
 Here are some things about me:
 
-- 🔭 I’m currently working on starting a career
+- 🔭 I’m currently working on building my Python portfolio
 - 🌱 I’m currently learning Python 
 - ⭐ I'm interesed in data science
 
